@@ -1,0 +1,47 @@
+{
+  "marks": [
+    {
+      "name": "Tom",
+      "score": 80
+    },
+    {
+      "name": "Joe",
+      "score": 50
+    },
+    {
+      "name": "Loe",
+      "score": 90
+    },
+    {
+      "name": "Bom",
+      "score": 54
+    },
+    {
+      "name": "Rahul",
+      "score": 76
+    },
+    {
+      "name": "Roy",
+      "score": 92
+    },
+    {
+      "name": "James",
+      "score": 85
+    },
+    {
+      "name": "PuspaRaj",
+      "score": 80
+    }
+  ],
+
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
